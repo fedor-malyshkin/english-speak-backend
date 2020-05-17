@@ -18,7 +18,8 @@ CORS(app)
 
 gt = builder.json_file("data/grammar.json")
 mt = builder.flat_file("data/murphy.list")
-pv = builder.flat_file_pairs("data/phrasal_verbs.list")
+pv = builder.flat_file_pairs("data/phrasal_verbs.list", builder.phrasal_verb_record_transformer)
+exp = builder.flat_file_pairs("data/expressions.list", builder.dumb_transformer)
 tp = builder.flat_file("data/topics.list")
 gv = builder.flat_file("data/general_vocabulary.list")
 
@@ -56,3 +57,9 @@ def vocabulary(topic_value):
 def general_vocabulary():
     count = int(request.args.get('count', '5 '))
     return jsonify(gv.get_exact_part(count))
+
+
+@app.route('/expressions')
+def expressions():
+    count = int(request.args.get('count', '5'))
+    return jsonify(exp.get_exact_part(count))
