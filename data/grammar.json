@@ -1,34 +1,42 @@
 [
   {
-    "name": "VERBS: Simple Present",
+    "name": "Verbs: Simple Present",
+    "note": "You speak English / Does he speak English? / He does not speak English",
     "url": "https://www.englishpage.com/verbpage/simplepresent.html"
   },
   {
-    "name": "VERBS: Present Continuous",
+    "name": "Verbs: Present Continuous",
+    "note": "am/is/are + present participle (You are watching TV / Are you watching TV? / You are not watching TV.)",
     "url": "https://www.englishpage.com/verbpage/presentcontinuous.html"
   },
   {
-    "name": "VERBS: Simple Past",
+    "name": "Verbs: Simple Past",
+    "note": "verb + ed (You called Debbie / Did you call Debbie? / You did not call Debbie.)",
     "url": "https://www.englishpage.com/verbpage/simplepast.html"
   },
   {
-    "name": "VERBS: Past Continuous",
+    "name": "Verbs: Past Continuous",
+    "note": "was/were + present participle (You were studying when she called  / Were you studying when she called? / You were not studying when she called.)",
     "url": "https://www.englishpage.com/verbpage/pastcontinuous.html"
   },
   {
-    "name": "VERBS: Present Perfect",
+    "name": "Verbs: Present Perfect",
+    "note": "has/have + past participle (You have seen that movie many times. / Have you seen that movie many times? / You have not seen that movie many times.)",
     "url": "https://www.englishpage.com/verbpage/presentperfect.html"
   },
   {
-    "name": "VERBS: Present Perfect Continuous",
+    "name": "Verbs: Present Perfect Continuous",
+    "note": "has/have + been + present participle (You have been waiting here for two hours. / Have you been waiting here for two hours? / You have not been waiting here for two hours.)",
     "url": "https://www.englishpage.com/verbpage/presentperfectcontinuous.html"
   },
   {
-    "name": "VERBS: Past Perfect",
+    "name": "Verbs: Past Perfect",
+    "note": "had + past participle (You had studied English before you moved to New York. / Had you studied English before you moved to New York? / You had not studied English before you moved to New York.)",
     "url": "https://www.englishpage.com/verbpage/pastperfect.html"
   },
   {
-    "name": "VERBS: Past Perfect Continuous",
+    "name": "Verbs: Past Perfect Continuous",
+    "note": "had + been + present participle (You had been waiting there for more than two hours when she finally arrived. / Had you been waiting there for more than two hours when she finally arrived? / You had not been waiting there for more than two hours when she finally arrived.)",
     "url": "https://www.englishpage.com/verbpage/pastperfectcontinuous.html"
   }
 ]
