@@ -1,4 +1,5 @@
 import json
+import os.path
 import re
 
 from . import storage
@@ -29,6 +30,10 @@ def is_empty(value):
     return value.isspace() or len(value.strip()) == 0
 
 
+def is_comment(value):
+    return value.strip().startswith("#")
+
+
 def flat_file(file_name):
     return storage.Storage(wrap_flat_records(read_lines(file_name)))
 
@@ -44,9 +49,11 @@ def flat_file_pairs(file_name, transformer):
 
 
 def read_lines(file_name):
+    if not os.path.exists(file_name):
+        return []
     with open(file_name) as f:
         value = f.read().splitlines()
-        return [rec for rec in value if not is_empty(rec)]
+        return [rec for rec in value if not is_empty(rec) and not is_comment(rec)]
 
 
 def wrap_flat_records(records):
@@ -93,3 +100,25 @@ def phrasal_verb_record_transformer(original_record):
 
 def dumb_transformer(original_record):
     return original_record
+
+
+def flat_file_map(file_name, separator):
+    result = {}
+    lines = read_lines(file_name)
+    first_line = False
+    temp_list = []
+    k = "x"
+    for l in lines:
+        if l.strip().startswith(separator):
+            result[k] = storage.Storage(temp_list)
+            first_line = True
+            temp_list = []
+            continue
+        if first_line:
+            k = re.sub(r' +', "_", l.strip().lower())
+            first_line = False
+        else:
+            temp_list.append(l.strip())
+    result[k] = storage.Storage(temp_list)
+    del result["x"]
+    return result
