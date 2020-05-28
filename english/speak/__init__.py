@@ -16,7 +16,7 @@ CORS(app)
 #                       'set of grammar rules, phrasal verbs and IELTS themes',
 #           )
 
-gt = builder.json_file("data/grammar.json")
+gt = builder.json_file("data/grammar_rules.json")
 mt = builder.flat_file("data/murphy.list")
 pv = builder.flat_file_pairs("data/phrasal_verbs.list", builder.phrasal_verb_record_transformer)
 exp = builder.flat_file_pairs("data/expressions.list", builder.dumb_transformer)
@@ -47,9 +47,9 @@ def murphy():
     return jsonify(mt.get_exact_part(count))
 
 
-@app.route('/vocabulary/<string:topic_value>')
+@app.route('/topics/<string:topic_value>')
 def vocabulary(topic_value):
-    vocab = builder.flat_file("data/vocabulary/{0}.list".format(topic_value))
+    vocab = builder.flat_file("data/topics/{0}.list".format(topic_value))
     return jsonify(vocab.get_exact_part(7))
 
 
