@@ -24,6 +24,7 @@ phrasal_verbs_data = builder.flat_file_pairs("data/phrasal_verbs.list", builder.
 expression_data = builder.flat_file_pairs("data/expressions.list", builder.dumb_transformer)
 topics_q1_question_data = builder.flat_file_map("data/questions1.txt", "---")
 topics_q23_question_data = builder.flat_file_map("data/questions23.txt", "---")
+random_words_data = builder.flat_file("data/random_words.list")
 
 
 @app.route('/topics_q1/random')
@@ -80,3 +81,9 @@ def murphy():
 def expressions():
     count = int(request.args.get('count', '5'))
     return jsonify(expression_data.get_exact_part(count))
+
+
+@app.route('/random_words')
+def random_words():
+    count = int(request.args.get('count', '7'))
+    return jsonify(random_words_data.get_exact_part(count))
