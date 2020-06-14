@@ -1,5 +1,20 @@
 # data from https://ieltsliz.com/ielts-speaking-part-2-topics/
 # parts 3 from https://ieltsliz.com/ielts-speaking-part-3-topics-2/
+# Interview: from http://kuzina.me/unit-1-tell/
+
+Interview
+Tell me about yourself
+What are your main strengths?
+What are your greatest weaknesses?
+Why do you want to leave your current job?
+Why should we hire you?
+What did you do when you failed to accomplish an important task? What lessons did you learn?
+What are you looking for in your next job?
+What did you most dislike about your last employer?
+What is your typical working week in hours? Can you describe it?
+What lessons have you learned from your past career?
+
+----------------------
 
 Art
     Describe a piece of art you like.

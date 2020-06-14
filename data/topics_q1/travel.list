@@ -1,0 +1,39 @@
+terminal = здание аэропорта, терминал
+check-in kiosk = регистрационный киоск
+check-in desk/counter = стойка регистрации пассажиров
+baggage drop-off = отделение приёма багажа
+cargo terminal = грузовой терминал
+departure gate = выход на посадку
+pre-boarding zone = зона посадки на самолёт для людей с ограничениями
+security barrier = барьер безопасности
+security lane = дорожка проверки безопасности
+express security lane = дорожка быстрой проверки безопасности
+backscatter X-ray machine = рентгеновский аппарат обратного сканирования
+departure board = доска информации о вылете
+landside = общая зона
+airside = чистая зона
+jet bridge = телетрап
+runway/tarmac = взлётно-посадочная полоса
+
+
+luggage = багаж
+hold luggage = сдаваемый багаж
+excess luggage = излишек массы багажа
+carry-on = ручная кладь
+
+luggage (baggage) handler = оператор по обработке багажа
+screener = оператор досмотра
+
+
+check-in = регистрация
+curbside check-in = регистрация перед входом в здание аэропорта
+check-through = сквозная регистрация
+security check = досмотр
+body screening = сканирование тела
+boarding = посадка на самолёт
+boarding time = время посадки
+final/last call = предупреждение об окончании посадки
+self-service bag drop = оставление багажа
+baggage/luggage allowance = норма провоза багажа
+flight ticket = билет на самолёт
+boarding pass = пропуск на посадку
