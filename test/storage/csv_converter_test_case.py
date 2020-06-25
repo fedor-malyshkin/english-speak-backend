@@ -4,9 +4,17 @@ from english_speak_backend.storage.csv_converter import CsvConverter
 
 
 class CsvConverterTestCase(unittest.TestCase):
-    def test_first_last_name(self):
-        result = CsvConverter.convert_ep_name("seeger")
-        self.assertEqual(result, "")
+    def test_remove_smb_sth(self):
+        result = CsvConverter.convert_original_name("ask for sb/sth")
+        self.assertEqual(result, "ask for")
+
+    def test_remove_sample(self):
+        result = CsvConverter.remove_original_sample("to make a light stop shining by pressing or moving a switch (Did you put the lights out downstairs?)")
+        self.assertEqual(result, "to make a light stop shining by pressing or moving a switch")
+
+    def test_extract_sample(self):
+        result = CsvConverter.extract_original_sample("to make a light stop shining by pressing or moving a switch (Did you put the lights out downstairs?)")
+        self.assertEqual(result, "Did you put the lights out downstairs?")
 
     def test_first_last_middle_name(self):
         result = CsvConverter.convert_ep_name("red")
