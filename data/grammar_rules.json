@@ -53,5 +53,25 @@
     "name": "Verbs: Future Perfect",
     "note": "will have + past participle / am/is/are + going to have + past participle",
     "url": "https://www.englishpage.com/verbpage/futureperfect.html"
+  },
+  {
+    "name": "Verbs: Future Perfect Continuous",
+    "note": "will have been + present participle / am/is/are + going to have been + present participle",
+    "url": "https://www.englishpage.com/verbpage/futureperfectcontinuous.html"
+  },
+  {
+    "name": "Verbs: Used To",
+    "note": "used to + VERB",
+    "url": "https://www.englishpage.com/verbpage/usedto.html"
+  },
+  {
+    "name": "Verbs: Would Always",
+    "note": "would always (constantly, often, forever, rarely, occasionally, seldom) + VERB",
+    "url": "https://www.englishpage.com/verbpage/would.html"
+  },
+  {
+    "name": "Verbs: Future in the Past",
+    "note": "would + VERB / was/were + going to + VERB",
+    "url": "https://www.englishpage.com/verbpage/futureinpast.html"
   }
 ]

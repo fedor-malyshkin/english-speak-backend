@@ -7,16 +7,10 @@ from flask import request
 from flask.json import jsonify
 from flask_cors import CORS
 
-from english.speak.storage import builder
-
-# from flask_restx import Api
+from english_speak_backend.storage import builder
 
 app = Flask(__name__)
 CORS(app)
-# api = Api(app, version='0.1', title='English study API',
-#           description='Tiny API for english studying with a '
-#                       'set of grammar rules, phrasal verbs and IELTS themes',
-#           )
 
 grammar_data = builder.json_file("data/grammar_rules.json")
 murphy_data = builder.flat_file("data/murphy.list")
