@@ -13,7 +13,7 @@ def convert_to_map(row, fields):
 
 
 def filter_fields(m, fields):
-    return {field: m[field] for field in fields if m.get(field, None) is not None}
+    return {field: m[field].strip() for field in fields if m.get(field, None) is not None}
 
 
 class CsvToJson:
@@ -39,5 +39,7 @@ class CsvToJson:
 
 if __name__ == "__main__":
     cnv = CsvToJson()
-    cnv.read("data/csv/phrasal_verbs.csv")
-    cnv.output("data/phrasal_verbs.json", ["name", "meaning", "sample", "note"])
+    # cnv.read("data/csv/phrasal_verbs.csv")
+    cnv.read("data/csv/verbs_with_prep.csv")
+    # cnv.output("data/phrasal_verbs.json", ["name", "meaning", "sample", "note"])
+    cnv.output("data/verbs_with_prep.json", ["name", "sample"])
