@@ -3,6 +3,7 @@
 # Interview: from http://kuzina.me/unit-1-tell/
 
 Interview
+
 Tell me about yourself
 What are your main strengths?
 What are your greatest weaknesses?
@@ -475,7 +476,53 @@ Zoo
         What jobs do you think are most valuable to society?
 
 
-# Later questions are from http://ielts-yasi.englishlab.net/PARTS_2_and_3_P204.htm
+----------------------
+# Later questions are from http://ielts-yasi.englishlab.net/PARTS_2_and_3_INDEX_P21.htm
+
+A Missed Appointment_1
+
+Describe a time when you missed an appointment.
+            where it happened
+            what it was about
+            why you missed it it
+        and explain how you felt after missing the appointment.
+
+****
+    Which appointments are more important, appointments to meet friends, or appointments to meet colleagues?  FQ
+    Which do you think is worse, to miss work, or to miss a friend’s party?
+    (Most likely this is the question above) Which do you think is worse, to miss a work-related appointment, or to miss a friend’s party?
+    How can people remember to keep appointments?  FQ
+    What are some ways to keep track of time (or, the date)?
+    Do you think people forgot appointments more in the past than they do now?  FQ
+    Is it common for people today to use (modern) technology to remember appointments?
+    How did people remember things such as appointments before the age of mobile phones?
+    Who do you think are more likely to forget their wedding anniversary, men or women?
+    Can you explain why some people forget appointments or important dates?  FQ
+    Would you say people forget about appointments because they don’t care?
+    Do you think people tend to forget the things they really don’t want to do?
+    Do you think people should know their family history?  FQ
+    (Similar to above) What do you think are the benefits of knowing one's family history?  FQ
+    Do you think it's beneficial for children (& young people) to talk to their grandparents and learn about the lives of their grandparents?
+    How can one remember (or, record) one's family history?  FQ
+    How do you think people should deal with any "black sheep" they might discover in their family history?  See Note 2
+    When people make an important agreement, such as in business, how do they remember the details of this agreement?
+
+----------------------
+An Enjoyable Meal
+ Describe a meal (or dinner) that you especially enjoyed. *
+    where it was (and when)
+    what you ate
+    who you were with
+    and explain why you enjoyed it so much.
+****
+
+    What do you think are the differences between eating normal meals at home and going out to eat a special meal?
+    Do you have any idea why, when world leaders gather for special meeting they also have a special meal (a banquet) together?
+    Can you explain why food is such an important part of observing special occasions?
+    Why do you think different countries have different national dishes (or, different national cuisines)?
+    Do you think it's important for people today to continue practicing the traditional food (or, culinary) customs from their culture?
+
+----------------------
 
 Foreign Country or Culture
 
@@ -519,8 +566,28 @@ what you saw (or did) there
 and explain what you learned on that trip.
 
 ****
-
-See also the Part 3 of Topic 169 & 634.
+    Do schools in China ever organize educational trips for students, for example, a visit to a museum?
+    Do you think school excursions (educational trips) are important (or, useful)? FQ
+    Do you think children really do (or can) learn something from an educational trip? (How?)
+    What are some suitable places for school students to go for an educational visit? FQ
+    In general, what attributes are necessary for an ideal school excursion?
+    Do you think there is any difference between the places boys would prefer to visit and the places where girls would prefer to visit?
+    What do you think are the benefits (advantages) of taking children to visit places where they can learn something? FQx2
+    What role do you think the teacher should play on these school excursions? FQ
+    (Similar to above) Do you think the teacher is more important than the things the students can see on a school excursion?
+    In general, do you think children learn better (or, learn more) inside the classroom or outside the classroom? FQ
+    What are some examples of places where parents could take their children for an 'educational visit'?
+    Do school children in your country often go on school excursions (or, educational trips organized by the school)? FQ
+    Where do they go?
+    (Similar to above) Did you ever go (or, how often did you go) on school excursions (or educational trips) when you were at school? FQ
+    Did you enjoy those trips?
+    What did you learn?
+    How useful do you think such trips are? (= What are the benefits of such trips?)  FQ
+    (Similar to above) Do you think educational trips really do help promote learning?
+    How would you compare what children learn on educational trips (school excursions) to what they learn in the classroom?
+    What do you think is (or, should be) the role of the teacher during a school excursion?
+    What is the value for the children of going on such excursions with a teacher as opposed to going there with their parents, or going there alone?
+    What do you think are the benefits of overseas educational trips?
 
 ----------------------
 
@@ -534,8 +601,31 @@ Describe a talk or speech that you attended.
 
 ****
 
-See also the Part 3 of Topics 185, 473 & 778 on the page, COMPLETE_P2_LIST.htm
-
+    What different kinds of speeches or lectures have you attended in your life?
+    (Similar to above) What are the different purposes of speeches and lectures?
+    Do you think listening to (speeches and) lectures is important in universities?
+    Do you like listening to lectures and speeches? (Why?/Why not?)
+    What kinds of speeches (or lectures) do you prefer listening to?
+    (Similar to above) For you, what makes a speech (or lecture) interesting (or enjoyable) to listen to?
+    (Similar to above) For you, what makes a lecture a good lecture? FQ
+    Some people prefer to just listen to a speaker while other people prefer to engage in (group) discussion. Which do you prefer (or, think is better)?
+    (Similar to above) Do you prefer to listen to a talk or to have a discussion? FQx2
+    (Similar to above) Which do you think is more useful (for exchanging information), listening to a talk (or speech) or engaging in discussion?
+    Do you think it's good (or, suitable) to give a talk (or speech) to young kids (e.g., 4 to 9 years old)?
+    Why do you many people find it hard to give a talk to young children? FQ
+    Why do you think young children sometimes have difficulty listening to (= concentrating on) someone giving them a lecture or talk? FQ
+    How should a talk be given to children? FQ
+    (Similar to above) How do you think a speaker could hold (or attract) the attention of young children? FQ
+    What kind of people (people with what qualities) do you think are best suited to giving a talk to children? FQ
+    Compare the kind of talk (or speech) that would be suitable to give to young children with a speech that would be suitable for adults.
+    Which do you think would be easier to give, a talk to adults or a talk to young children?
+    What qualities should public speakers have (in order to speak well in public)? FQ
+    Why do you think some people are good public speakers and others are not?
+    Do you think people are born with or without the ability to give a speech (in front of others)?
+    What skills do you think a public speaker needs to have?
+    How can a person develop or improve his or her speaking skills?
+    Why do you think some people find it difficult to speak in front of an audience?
+    Why do you think many people are nervous before they give a speech? FQx2
 ----------------------
 
 Polluted Place
@@ -548,68 +638,299 @@ Describe a polluted place you have seen. *
 
 ****
 
-See also the Part 3 of Topics 111, 180 & 687 on the page, COMPLETE_P2_LIST.htm
+    Do you ever discuss the topic of the environment with your friends?  FQx2
+    What are the different kinds of environmental problems that exist right now? FQx2
+    What do you think is the most serious environmental problem in China? (Why?) FQx2
+    What are the causes of these problems?
+    (Similar to above) Why do people create pollution?
+    Do you think environmental problems are worse than they used to be? (Why?)
+    Whose fault is it that we have these environment problems? FQ
+    Do you think those who cause pollution are criminals? (Why?/Why not?) See NOTE
+    In general, what do you think is the best way to deal with these environmental problems?
+    (Similar to above) What is the government doing to tackle this problem? FQ
+    (Similar to above) How is China going to (or planning to) tackle these problems?
+    If you were a government official, how would you try to solve these environmental problems?
+    Do you think it is the government's responsibility to solve environmental problems or is it the the responsibility of each individual? FQx2
+    What are some things that individuals can do to help solve environmental problems?
+    Do you think pollution will be less severe in the future (than it is now), or do you think it will get worse?
+    Do you think these problems will be solved in the future?
+    What do you think will be the result if we ignore these environmental problems?
+    Compared to before, do you think people's awareness (consciousness) of environmental problems has increased or decreased? (How? Why?) FQ
+    (Similar to above) Why do you think some people don't pay much attention to environmental problems?
+    What are some ways that the government could use to help educate people about the environment? FQ
+    Do older people in China have the same attitudes towards the environment as young people? FQ See NOTE
+    What do you think China's environment will be like in the future (e.g., 20 or 50 years in the future)? FQx2
+    (Similar to above) Do you think the environment will be improved in the future or do you think it will get worse?
+    How do you think cutting down all the trees in a forest affects the environment?
+    Do you think that air-conditioning in buildings such as this (the examination building), is a form of environmental pollution?
+    Do you think air pollution might (or will) have any effect on Beijing's Olympic Games this year?
 
 ----------------------
 
 Souvenir
 
-Describe ....................
- ..................
- .................
- .................
- and explain .......................
+    Describe something special you brought home from a holiday. *
+                what it was
+                when and where you went on this holiday
+                what you did with it after you brought it home
+        and explain why you thought it was special.
 
 ****
 
+    What sorts of things do tourists often buy to help them remember a a holiday they have had?
+    Do you think it's good that locals sell things to tourists at tourist locations?
+    Why do you think people like to take photos when they go on vacation (= go on a holiday)?
+    What do you think are the pros and cons of taking an expensive (o, a high-quality, or a professional) camera with you on a vacation?
+    Do you (or, do people in your country) prefer to buy souvenirs when they visit a place or do they prefer to simply take something (not buy it) from the places they visit?   See Note 2
+    Why do people buy souvenirs? FQ
+    What (types of) things do people buy as souvenirs? FQ
+    Do you think it is really worth the money to buy souvenirs? FQ
+    Do you think different types of people tend to buy different sorts of souvenirs?
+    Are children and adults the same when it comes to souvenirs?
+    What types of souvenirs do visitors to your country buy?
+    If you bought a shirt as a souvenir from some place you visited, would you prefer to wear that shirt or hang it on the wall as a display?
+    Do you think some people buy souvenirs in order to show others where they have been?  FQ
+    (Different to above) Do you think some people just buy souvenirs to show off (to impress others)?  FQ
+    What do you think is the value of keeping a souvenir for a long time?
 
 ----------------------
 
 Friend Who is a Good Leader
 
-Describe ....................
- ..................
- .................
- .................
- and explain .......................
-
+Describe a friend who you think is a good leader.
+who this friend is
+how you know this person (or, how [& when] you first met this person)
+how other people behave towards him/her
+and explain why you think he/she is a good leader.
 
 ****
-
-
+    Can you suggest (= make a guess) why men are usually the leaders in society? *
+    Do you think this might change in the future?
+    Do you think men are better leaders than women? *
+    Who is usually the head of the family in your culture?
+    Do you think men are (really) better decision-makers in a family situation?
+    Do you think a leader should discuss things with the people they are leading (e.g., the members of a team) before making important decisions?
+    Who makes most of the major decisions in your family?  FQx2
+    (Similar to above) In your country or culture, who makes most of the major decisions in the family?  FQx2
+    Who do you think should lead a family, the father or the mother (or, the male or the female)? FQ
+    (Similar to above) In your country, who is usually the leader of the family, the father or the mother (or, the male or the female)? FQ
+    Are there any differences between rural and urban households concerning who the leader of the family is?
+    Do you think it's difficult to make decisions within the family? FQ
+    Do you think the children within a family can ever be helpful in the decision-making process?
+    (A little different to above) Do you think the children within a family ever influence the decision-making process?
+    Do you think there have been any changes in the roles of men & women in the home in the past few decades?  See Note 7
+    Who do you think should be the leader within the family/ the home?
+    Are there any decisions that can be better made by women, and other decisions that can be better made by men?
+Would you like to be a leader?
+What sort of leader would you like to become?
+Why do some people like to be leaders?
+Do you think leaders are born that way? FQ
+(Similar to above) Do you think some people are born leaders? FQ
+(Similar to above) Do you think some people are "natural leaders"? FQ
+How do people become leaders? FQ
+(Similar to above) How do some people develop into leaders as they grow up?
 ----------------------
 
 Sport or Game
 
-Describe ....................
- ..................
- .................
- .................
- and explain .......................
+ Describe a sport that you have watched others play and would like to try (or play) yourself. *
+ what sport it is
+ where you have seen it being played
+ who was playing it
+ and explain why you would like to try it.
 
 ****
+    What sports are most popular in your country?
+    Can you explain why people like to watch sports competitions?
+    Do you have a lot of TV programs about sports?
+    Which sports do people in your country like to watch on TV?  FQ
+    Why do people like to watch sports on TV?  FQ
+    Do you think there are too many sports programs on TV?
+    Can you explain why some people think watching sport is good, while other people think it's a waste of time?
+    What do you think is the difference between watching a sport live, (at the actual location of the game), and watching it on TV?  FQ
+    Why do people prefer to watch sport on TV? (rather than to watch it at the venue where it is taking place)?
+    Do young people and old(er) people like to watch the same sports (on TV)?  FQ
+    Do you think children and adults like to watch the same sports?
+    What sports do girls (or, females) prefer to watch?  FQ
+    Do you think sports shows on TV are a good way to encourage people to exercise?
+    Can you tell me any sports stars of this generation in your country?  FQ
+    What type of personality do you think successful (or, champion) sportspeople need to have?  FQ
+    Can you explain why some famous people, including some famous athletes are used in advertisements?  FQx2
+    What is the purpose of advertising?
+    Do you think it's appropriate for athletes to advertise unhealthy foods such as Coca Cola?  FQ
+    Would you say people in your country are good at sport?  FQ
+    (Similar to above) What kinds of sports are people good at in your country?  FQ
+    How often do you play a sport?
 
 ----------------------
 
 Person with an Important Job
 
-Describe ....................
- ..................
- .................
- .................
- and explain .......................
-
+    Describe a person (you know) who (you think) has an important job.
+                who this person is
+                how you know this person *
+                where he or she (they) works
+                what work he or she does
+        and explain why (you think) his or her work is important.
 
 ****
+
+    Do you think some jobs (or, types of work) are more important than others? FQ
+    Would you agree that all jobs have some value?
+    How do we (or, how can we) rank different jobs?
+    Do you think people should receive the same salary, no matter what job they are doing?
+    Do you think people who are doing an unpleasant or dangerous job should be paid more than people doing other jobs? FQx2
+    How do young people choose their career in you country?  FQx2
+    Do they usually make their choice based on money or is their choice usually based on what they are interested in doing?
+    What sorts of work (or, what careers) are most popular with young people in your country?  FQx2
+    Do you think that everyone ends up doing the job (career) that they want to do? (Why not?)
+    Do young men and young women generally have the same options for work?
+    (Similar to above) Do young men and young women usually want to do the same kind of work?
+    Where do young people get advice about choosing a career?  FQx2
+Is it easy for (young) people to find a job in your country?  FQ
+Are there companies or organizations (including government agencies) that help people find a job?
+How do you think schools could help students be able to find a job in the future?
+Is that the same in all parts of your country?
+Do you think a person should take the first job that's available or continue to look for a job that they will like better?
+Do you think the question of money is important when looking for a job?
+Are there any types of work that your country can't find enough qualified people to do?
+What occupation are considered to be the best jobs in your country?
+
 
 ----------------------
 
 Occasion When You Wanted to Impress  UNCONFIRMED TOPIC
 
-Describe ....................
- ..................
- .................
- .................
- and explain .......................
+ Describe an occasion when you wanted to (or, tried to) impress others (or another person). *
+ who you wanted to impress *
+ what you did *
+ how you hoped to impress them *
+ and explain why you wanted to impress them. *
 
 ****
+
+----------------------
+An Occasion When You Recived Some Advice
+    what the situation was
+    who gave you the advice
+    what the advice was
+    and explain how this advice was useful to you.
+****
+    Do you often get advice from older people?
+    (That question might be) Do you often get advice from other people?
+    Do you like giving advice to others?
+    Why (do you think) many people don't follow good advice?
+    What kinds of (= what are some examples of) advice that parents in your country give to their children?
+    Do parents give any advice about making friends?  See Note 1
+    Whose advice do you think is most helpful (or, useful), advice from parents, or advice from friends?
+    What are some examples of people who give advice as (part of) their work?
+    How do these experts give advice to others?
+
+----------------------
+A Road Trip
+You should say:
+ where you would go
+ who you would like to go with
+ what you would like to (see and) do on the tour
+ and explain why you would like to take (go on) this tour.
+****
+    Can you explain why people drive different models of cars (or car models)?
+    What are some differences between these different models of cars?
+    Why do you think some families have more than one car (or, several cars)?
+    Do you think every family needs to have several cars?
+    What would you say are the advantages of driving a car?
+    Are there any differences between men and women when driving a car?
+----------------------
+A Band or Singer
+Describe a band or singer who you like.
+                              what style of songs they sing / music they play *
+                              when you listen to them
+                              where you listen to them
+                and explain why you like this band or singer.
+****
+    What other music or bands do you like?
+    Why do you think people listen to music?
+    Would you like to sing or play a musical instrument yourself?
+----------------------
+Start a Small Business ?????
+----------------------
+Stop Eating Something?????
+----------------------
+An Exhibition
+
+Describe an exhibition that you visited.
+                          when you saw this exhibition
+                          where it was held
+                          what was on display
+            and explain your impression of the exhibition.
+****
+    Does China have many museums? What kind?
+    Are museums popular in China? (= Do Chinese people like visiting museums?)
+    How could museums attract more visitors?
+    Do children like visiting museums? (Why?)
+    Do you think people should have to pay to visit museums? (Why?/Why not?)
+    What are the functions of (= reasons for having) museums? *
+    What are some benefits of having museums?
+    How will museums of the future be different to museums of today?
+    What kinds of exhibitions are popular in China? *
+    What is the purpose of exhibitions? *
+    Do young people and old people like the same kinds of exhibitions? *
+    Do men and women like the same kinds of exhibitions? *
+    How do you think exhibitions, say, 20 years from now, will be different to exhibitions that we have today? *
+
+----------------------
+  Lost
+You should say:
+where it was
+ who was with you
+ how you felt
+and explain how you eventually found your way.
+****
+    What are some of the reasons why people get lost (lose their way)? FQ
+    What's the problem with becoming lost?
+    Why do you think some people are better than others at finding their way when they are travelling in a new environment (such as a new city)?
+    Who do you think generally has a better sense of direction (in an unfamiliar place), males or females? FQ
+    How do you (or people in general) maintain their sense of direction when they are moving through a new environment?  See Note 2
+    What would you do if you got lost in an unfamiliar city, without a map?
+    Do you think maps are important? FQ
+    Do you think knowing how to read a map is an important skill?
+    (Similar to above) Do you think map reading is an important practical skill?
+    How does one read a map? * (Possible question, not reported)
+    How does a person orient themselves (= find the right direction) when using a map?
+    How would you teach someone (e.g., a child) to read a map?
+    Which do you think are better, paper maps or digital maps? FQ
+    (Similar to above) Why do you think people are using digital maps more and more today, instead of paper maps? FQ
+    What modern technology is available to help people find their way in unfamiliar locations?  See Note 1
+    Do you think some people who use modern electronic navigation aids (such as an app on a cell phone, or a digital map), without using a paper map, can become too dependant on that technology? FQx2
+
+----------------------
+A Risk You Took
+ Describe a time when you took a risk but were successful.
+ what risk
+ what you did *
+ why you took this risk *
+ and explain how you were successful.
+****
+    A question or two about extreme sports. For example, "Do you think extreme sports are risky (= dangerous)? And, "Would you like to try an extreme sport?"
+    What do your parents think about the risks you take?
+    Do you think men and women have the same attitudes about risk-taking?  See Note 1
+    Do you think old and young people have the same attitudes about risk-taking?
+    Do you think it's good when leaders take risks?
+
+----------------------
+ A Noisy Place You Went To
+ Describe a noisy place you went to.
+ where it was
+ why you went there
+ the source of the noise
+ and explain your reaction to the noise.
+****
+    Can you explain why some people like to be in noisy places?
+    Are young and old people different when they are in noisy situations?
+    Why do some people not have a good feeling in quiet places?
+    Which do you think  is more dangerous - air pollution or noise pollution?
+    What are the sources of noise in large cities?
+    Can you name any jobs that involve making noise?
+    Would you say noise is harmful to people's (or, a person's) health?
+    What do you think are the harmful effects of noise?
+    Do you think noise in the work place is good or bad?
