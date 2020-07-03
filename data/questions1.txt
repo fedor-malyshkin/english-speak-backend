@@ -607,3 +607,20 @@ Travel
     What kinds of places do you like to travel to?
     What are some of the places (or cities) that you have travelled to?
     Which one of those places left the deepest impression on you? (Why?)
+------------------------------
+
+News and Newspapers
+
+This might be either the topic of "News", "Newspapers & Magazines", or Reading"
+
+    Which do you prefer to read, newspapers or magazines?
+    What's your opinion of (or, about) newspapers?
+
+------------------------------
+
+Tidiness
+
+    Would you say you are a tidy person?
+    Is your home very tidy?
+    Are you a tidy person at home and at work?
+

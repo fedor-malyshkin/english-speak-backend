@@ -73,5 +73,25 @@
     "name": "Verbs: Future in the Past",
     "note": "would + VERB / was/were + going to + VERB",
     "url": "https://www.englishpage.com/verbpage/futureinpast.html"
+  },
+  {
+    "name": "Conditional: Present Real (0-form)",
+    "note": "If / When ... simple present ..., ... simple present ... | ... simple present ... if / when ... simple present ...",
+    "url": "https://www.englishpage.com/conditional/presentconditional.html"
+  },
+  {
+    "name": "Conditional: Present Unreal (2-form)",
+    "note": "If ... simple past ..., ... would + verb ...|... would + verb ... if ... simple past ...",
+    "url": "https://www.englishpage.com/conditional/presentconditional.html"
+  },
+  {
+    "name": "Conditional: Past Real",
+    "note": "If / When ... simple past ..., ... simple past ...|... simple past... if / when ... simple past ...",
+    "url": "https://www.englishpage.com/conditional/pastconditional.html"
+  },
+  {
+    "name": "Conditional: Past Unreal (3-form)",
+    "note": "If ... past perfect ..., ... would have + past participle ...|... would have + past participle ... if ... past perfect ...",
+    "url": "https://www.englishpage.com/conditional/pastconditional.html"
   }
 ]
