@@ -19,7 +19,14 @@ verbs_with_prep_data = builder.json_file("data/verbs_with_prep.json")
 expression_data = builder.flat_file_pairs("data/expressions.list")
 topics_q1_question_data = builder.flat_file_map("data/questions1.txt", "---")
 topics_q23_question_data = builder.flat_file_map("data/questions23.txt", "---")
+interview_question_data = builder.flat_file_map("data/interview.txt", "---")
 random_words_data = builder.flat_file("data/random_words.list")
+
+
+@app.route('/interview/random')
+def interview():
+    key = sample(interview_question_data.keys(), 1)[0]
+    return jsonify(builder.wrap_flat_records(interview_question_data[key].get_all()))
 
 
 @app.route('/topics_q1/random')
