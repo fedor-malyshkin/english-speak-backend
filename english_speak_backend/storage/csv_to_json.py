@@ -36,10 +36,43 @@ class CsvToJson:
         with open(file_name, "w") as fo:
             json.dump(res, fo)
 
+    def count(self):
+        m = {}
+        for entry in self.data:
+            CsvToJson.put_to_map(m, entry)
+        for key in m.keys():
+            CsvToJson.enumerate_keys(m, key)
+
+    @staticmethod
+    def put_to_map(m, entry):
+        entry_name = entry['plain_name']
+        if entry_name not in m:
+            m[entry_name] = [entry]
+        else:
+            arr = m[entry_name]
+            arr.append(entry)
+            m[entry_name] = arr
+
+    @staticmethod
+    def enumerate_keys(m, key):
+        lst = m[key]
+        length = len(lst)
+        if length > 1:
+            for ndx in range(1, length + 1):
+                el = lst[ndx - 1]
+                if 'note' in el:
+                    nt = el['note']
+                    nt = ', '.join([nt, 'var ' + str(ndx)])
+                    nt = nt.replace(',,', ',')
+                    el['note'] = nt
+                else:
+                    nt = 'var ' + str(ndx)
+                    el['note'] = nt
+
 
 if __name__ == "__main__":
     cnv = CsvToJson()
     # cnv.read("data/csv/phrasal_verbs.csv")
-    cnv.read("data/csv/verbs_with_prep.csv")
-    # cnv.output("data/phrasal_verbs.json", ["name", "meaning", "sample", "note"])
-    cnv.output("data/verbs_with_prep.json", ["name", "sample"])
+    cnv.read("data/csv/phrasal_verbs_raw.csv")
+    cnv.count()
+    cnv.output("data/phrasal_verbs.json", ["name", "meaning", "sample", "note"])
