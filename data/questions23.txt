@@ -79,7 +79,7 @@ Family
 
         who it is
         what relationship you have to that person
-        what that person is like
+        what that fperson is like
         what you do together
         and explain why you get on so well.
 
@@ -460,7 +460,7 @@ Zoo
 ----------------------
 # Later questions are from http://ielts-yasi.englishlab.net/PARTS_2_and_3_INDEX_P21.htm
 
-A Missed Appointment_1
+A Missed Appointment
 
 Describe a time when you missed an appointment.
             where it happened
@@ -833,9 +833,27 @@ Describe a band or singer who you like.
     Why do you think people listen to music?
     Would you like to sing or play a musical instrument yourself?
 ----------------------
-Start a Small Business ?????
+Start a Small Business
+
+Describe a small business you would like to start.
+ what it is
+ how much money you would need
+ how many people you would need
+ and explain why you would like to start a small business.
 ----------------------
-Stop Eating Something?????
+Stop Eating Something
+Describe something you would like to stop eating. *
+ what it is
+ when and where you eat it *
+ where you buy it
+ how much of it you eat * or how often you eat it*
+ and explain why you would like to stop eating it. *
+
+Describe something that you have stopped eating
+                                what is it
+                                why you like it
+                                where do you buy it from
+                and explain how you stopped eating it
 ----------------------
 An Exhibition
 
@@ -915,3 +933,181 @@ A Risk You Took
     Would you say noise is harmful to people's (or, a person's) health?
     What do you think are the harmful effects of noise?
     Do you think noise in the work place is good or bad?
+----------------------
+An App
+
+Describe a useful app or computer program for a smart phone, computer or tablet that you have used (or, use). *
+what the app is
+how long you have used it (or, been using it) Or: how often you use it
+what you use it for
+and explain why you think it is useful.
+****
+ Apps in Your Country
+    What would you say is the most popular app in your country?
+    Are there any differences between the apps that young people use and those that older people use? See Note 2
+    In your country, what kinds of app do people mainly use while they’re travelling, such as on the subway while going to work?
+    What do you think of people who don’t use apps?
+The Pros and Cons of Mobile Phone Technology
+    Do you think the use of mobile phone technology has any negative effects on people's communication?
+    Do people send passwords or bank details to others by using social media apps (like WeChat)? Is there a risk?
+    How would you compare getting news and other information from newspapers, instead of from a mobile phone?
+    Do you think teenagers spend too much time on their mobile phones?
+    Do you think parents should prohibit their children from playing games on their phones?
+    (Possibly the question above is this) Do you think parents should control the amount of time their children spend playing games on their phones?
+
+----------------------
+A Large Company
+
+Describe a large company that you are interested in.
+                what it is
+                what business it does
+                how you know about it
+    and explain why you are interested in it.              .
+
+****
+    Apart from the company you just spoke about, are there any other big companies you’ve heard of?
+    What advantages does a large company usually have, compared to a small company?
+    What difficulties do you think a small company might have when it is growing in size?
+    Can you explain why large companies usually pay their employees higher salaries than small companies?
+----------------------
+A Film That Made You Think
+
+Describe a film that made you think a lot.
+ What it was
+ When you saw it
+ What it was about
+ and explain why it made you think a lot
+****
+Also see the often-used Part 3 questions for the Part 2 topic, "A Film" by searching COMPLETE_P2_LIST.htm
+Films in Your Country
+    What kinds of films are popular in your country?
+    What do you think makes a good film?
+The Movie Industry
+    Would you say a country's film industry is important for that country?  See Note 1
+    Why are special effects used in some movies?
+----------------------
+An Enjoyable Time With Many People
+Describe an enjoyable time when you spent time with a lot of people
+ what it occasion it was
+ who you were with
+ what you did
+ and explain why it was an enjoyable time
+****
+    What are some examples of group events that people go to?
+    Do you think people today gather together (in rather big groups) more often than before?
+
+----------------------
+A City
+
+Describe a city you have visited and would like to go back to again.
+ what city it was
+ where it was
+ what you did there
+ and explain why you would like to go back there.
+
+****
+Cities versus The Countryside
+    What are the differences between cities and the countryside?
+    Some people say large cities are suitable for old people as places to live. What do you think?
+    Do you think it's possible for all the population of a country move to cities?
+    Would you say people in the countryside are friendlier than people in the city?
+
+----------------------
+A Place You Go To Relax
+Describe a place (other than your home) where you sometimes go to relax.
+            where it is
+            what you do there
+            how often you go there
+        and explain why it is a relaxing place
+
+****
+Relaxing in Your Country
+    In your country, what do student do to relax?  See Note 2
+    Do you think people nowadays have more ways to relax than in the past?
+    Would you say looking at natural scenery is more relaxing than engaging in indoor activities?
+    (Similar to above) Would you say being outside, in a natural environment, is more relaxing than engaging in indoor activities?
+    Is there any natural scenery near your home that makes you relaxed (= that relaxes you)?
+    Why do you think natural scenery is relaxing to people?
+Relaxing at the Workplace
+    Do employers in your country ever organize activities to help their employees relax?  See Note 3
+
+----------------------
+A Chance Meeting
+Describe a time when you were surprised to meet someone you know, such as a friend.
+            where it was
+            what you were doing at the time (or, why you went there)
+            who you met
+    and explain why you were surprised
+
+****
+Meeting by Chance
+    What are some other places where a person is likely to meet a friend by chance?
+Setting a Time & Place to Meet  See Note 1
+    Why is it best for people to contact each other in advance when they want to meet with a friend (or friends)?
+    Can you think of any situations when it is inconvenient for a person to visit a friend unannounced (= without giving notice that they are coming)?
+    Can you explain why people sometimes show up late for appointments (or, pre-arranged meetings)?
+    How do you prefer to contact friends, by a phone call or by sending a text message?
+    In what kind of situation do you think a person can be forgiven for being late for a meeting?
+
+----------------------
+A Mistake
+Describe a time when you made a mistake and you learnt from it.
+                  where it was
+                  what you were doing
+                  what mistake you made
+         and explain what you learned from making this mistake.
+
+****
+Mistakes in Childhood
+    What kinds of mistakes do children make at school?
+    What are the common mistakes that children make in their schoolwork?
+    Do you think these mistakes will disappear as they grow older, or will they continue throughout life, as habits?
+    What should parents do in response to these problems?
+Mistakes in the Workplace
+    What should employers do when employees made mistakes?
+    Do you think employees should be penalized for their mistakes at work?
+    Do you think people who use technical devices (e.g., calculators) make mistakes less often than those who do things by hand?
+    Do you think people will be making fewer mistakes in the future?
+
+----------------------
+An Old Person
+Describe an elderly person who you find interesting to be with.
+                    who this person is
+                    how you know them (= him/her )
+                   what this person did when he/she was young
+            and explain why you find it interesting to be with the person.
+****
+    What kinds of things do you think old people can  learn from teenagers?
+    What can children learn from their grandparents?
+    Do you think elderly people are happy being with their families?
+    What are the benefits of children spending time with their grandparents?
+    Would you say it’s hard for old people to communicate with young people?
+    How do you think the young and the elderly can get along with each other?
+    Why do you think young people who have jobs to do still need to communicate with (or, spend time with) the elderly people in their family?
+
+----------------------
+A Person You Are Happy to Know
+Describe a person you are happy to know.
+                        who this person is
+                        how long have known this person
+                        what you usually do with this person
+            and explain why you are happy to know this person.
+****
+Happiness in General
+    What do you think are some of the differences between adults’ happiness and children’s happiness?
+Happiness in the Workplace
+    Would you prefer to do a job with a low salary but one that brings you lots of happiness, or a boring job but with a high salary?
+    Can you suggest how a boss could make his or her employees happy (as happy as possible) at work？
+
+----------------------
+Wasted Time
+Describe an occasion when you wasted your time.
+what you did
+how much time you spent doing it
+why you did it
+and explain why you think it was a waste of time.
+****
+Saving & Wasting Time
+    What are some typical examples of how people in your country waste time?
+    How do you think people can save time?
+    Do you think pondering on something (= thinking deeply about something) is a waste of time?
