@@ -21,6 +21,7 @@ topics_q1_question_data = builder.flat_file_map("data/questions1.txt", "---")
 topics_q23_question_data = builder.flat_file_map("data/questions23.txt", "---")
 interview_question_data = builder.flat_file_map("data/interview.txt", "---")
 random_words_data = builder.flat_file("data/random_words.list")
+conv_exp_data = builder.json_file("data/conversation_exp.json")
 
 
 @app.route('/interview/random')
@@ -95,3 +96,9 @@ def expressions():
 def random_words():
     count = int(request.args.get('count', '7'))
     return jsonify(random_words_data.get_exact_part(count))
+
+
+@app.route('/conversation_expressions')
+def conversation_expressions():
+    count = int(request.args.get('count', '5'))
+    return jsonify(conv_exp_data.get_exact_part(count))
