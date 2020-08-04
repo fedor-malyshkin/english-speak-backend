@@ -1,0 +1,2427 @@
+[
+  {
+    "meaning": "You can say this if you think something's not fair or not reasonable.",
+    "name": "a bit much",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can add this to a description to make what you say sound more informal or colloquial.",
+    "name": "a bit of a",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if something's happened later, or taken longer, than it should have.",
+    "name": "about time",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you think it's time to do something.",
+    "name": "about time",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "A polite thing to say when you're letting somebody do something before you do, such as walk through a door or take salad from a bowl.",
+    "name": "after you",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if someone wants to do something before the normal or proper time.",
+    "name": "all in good time",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this instead of \"yes\" if you're accepting a suggestion or granting permission.",
+    "name": "all right",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this to make sure you've been understood, or to let someone know you've understood them.",
+    "name": "all right",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you're trying to comfort someone.",
+    "name": "all right",
+    "note": "var. 3"
+  },
+  {
+    "meaning": "You can say this to get everyone's attention.",
+    "name": "all right",
+    "note": "var. 4"
+  },
+  {
+    "meaning": "You can say this if you agree with a suggestion or a request, but you know that others might not agree.",
+    "name": "all right by me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to wish someone good luck when you're saying good-bye.",
+    "name": "all the best",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this about something that's good, but not exactly what's need or not all that's needed.",
+    "name": "all well and good",
+    "note": ""
+  },
+  {
+    "meaning": "This is a polite thing to say when you're offering to help someone.",
+    "name": "allow me",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can ask this if you want to know if someone's been able to do or find something.",
+    "name": "any luck?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when you're adding information, or when you're correcting wrong information.",
+    "name": "as a matter of fact",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when telling someone what you think or believe is true, based on what you've deduced so far.",
+    "name": "as far as I can tell",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when telling someone what you know so far, when there could be other facts you don't know.",
+    "name": "as far as I know",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when giving your personal opinion or views about something.",
+    "name": "as far as I'm concerned",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if something's true by chance, esp. if it's surprising.",
+    "name": "as it happens",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this instead of \"already\" when describing the way things are.",
+    "name": "as it is",
+    "note": ""
+  },
+  {
+    "meaning": "You can say someone's \"at it\" if they're doing something you don't approve of, esp. if they often do it.",
+    "name": "at it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when clarifying or changing what you've just said.",
+    "name": "at least | at any rate",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can use this when mentioning something positive in a generally negative situation or context.",
+    "name": "at least | at any rate",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this when stating the most important fact, or the most fundamental truth, of a situation.",
+    "name": "at the end of the day",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can use this to introduce another fact or view that should be considered alongside those already mentioned.",
+    "name": "at the same time",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're talking about a time long ago, or a time much earlier in your life.",
+    "name": "back in the day | back in the old days",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to show you're sorry or sympathetic if something bad happens to someone.",
+    "name": "bad luck",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you have no sympathy for someone, esp. if they've caused their own problem.",
+    "name": "bad luck!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone asks you to do something, and you're willing or happy to do it.",
+    "name": "be (only too) pleased to | be happy to",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this instead of \"yes\" if someone asks you for permission to do something.",
+    "name": "be my guest",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to tell someone you'll be with them very soon.",
+    "name": "be right with you | be right there",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to say goodbye to someone if you're not sure when you'll be seeing them again.",
+    "name": "be seeing you",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when you're reminding someone to do something.",
+    "name": "be sure to",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if what someone has just told you doesn't change your opinion or your plans.",
+    "name": "be that as it may",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't know or understand something.",
+    "name": "beats me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to have been cheated, conned or overcharged",
+    "name": "been had",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you've done something before and you're not interested in doing it again.",
+    "name": "been there, done that",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to emphasize the truth or importance of what you're saying.",
+    "name": "believe (you) me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when sharing some unexpected news or surprising information.",
+    "name": "believe it or not",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're glad something's happened, but you wish it'd happened sooner.",
+    "name": "better late than never",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to give encouragement or support to someone who's just failed to achieve something.",
+    "name": "better luck next time",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone when you're about to tell them a secret.",
+    "name": "between you and me",
+    "note": "BrE, AuE"
+  },
+  {
+    "meaning": "You can say this to show that you think something isn't important or impressive.",
+    "name": "big deal!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to someone after they've sneezed.",
+    "name": "bless you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to politely give someone permission to do something.",
+    "name": "by all means",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can add this to a \"yes/no\" question to make it sound more polite, esp. when asking if somebody has something, likes something, knows something or someone, etc.",
+    "name": "by any chance",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you want to mention, or ask about, an unrelated topic, or if you want to change the topic.",
+    "name": "by the way",
+    "note": ""
+  },
+  {
+    "meaning": "If you work in a shop or a business, you can say this to a customer if you think they might need your help.",
+    "name": "can I help you?",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't want to do something because you're feeling tired or lazy.",
+    "name": "can't be bothered",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can say this if you're looking forward to something very much.",
+    "name": "can't wait | can hardly wait",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this instead of \"probably\" when saying what's likely to happen.",
+    "name": "chances are",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're showing something to someone.",
+    "name": "check this out | check it out",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't understand a word or phrase that someone's used.",
+    "name": "come again?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you strongly disagree with someone, or strongly object to what they're doing.",
+    "name": "come off it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're comforting someone who's sad or afraid.",
+    "name": "come on",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to tell someone to hurry up.",
+    "name": "come on!",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this to get someone to put more effort into something, or to start doing something that requires effort.",
+    "name": "come on!",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you're suddenly reminded of something.",
+    "name": "come to think of it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if there's a small chance you could be wrong, or if you're politely correcting someone.",
+    "name": "correct me if I'm wrong",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when making a suggestion or giving advice.",
+    "name": "could always",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this when saying what you, or someone else, needs.",
+    "name": "could do with",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this when saying that something was very possible, but it didn't happen.",
+    "name": "could have easily",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're very sure about something, esp. when it seems you could be wrong.",
+    "name": "could have sworn",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to say you, or someone else, can't be blamed for something going wrong.",
+    "name": "couldn't help it",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to emphasize that you'll do what you promise to do, or that you're telling the truth.",
+    "name": "cross my heart (and hope to die)",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to tell someone to stop doing something that's annoying or upsetting you.",
+    "name": "cut it out! | cut that out!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this just before saying something that your listeners may not like, or may find challenging or controversial.",
+    "name": "dare I say it",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to emphasize your power or authority over somebody.",
+    "name": "do I make myself clear?",
+    "note": ""
+  },
+  {
+    "meaning": "If someone says this in a friendly way, they're asking for permission to do something.",
+    "name": "do you mind?",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "If someone says this an unfriendly way, they must think you've been rude or inconsiderate.",
+    "name": "do you mind?",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you don't want to talk about what's happened.",
+    "name": "don't ask",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is an impolite thing to say after being asked a question you don't want to answer.",
+    "name": "don't ask me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can this say if you don't think something's likely to happen.",
+    "name": "don't bet on it | I wouldn't bet on it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to tell someone not to do something.",
+    "name": "don't even think about",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think you might upset or offend someone, esp. when making a suggestion or giving advice.",
+    "name": "don't get me wrong",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after someone's said something that you don't believe or can't accept.",
+    "name": "don't give me that!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if something will take a long time to happen, or might never happen.",
+    "name": "don't hold your breath",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this after someone's said something you think is impossible or ridiculous.",
+    "name": "don't make me laugh!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a polite thing to say after someone has thanked you for something.",
+    "name": "don't mention it",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to tell someone to ignore you and continue doing whatever they're doing.",
+    "name": "don't mind me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to very firmly tell someone not do something.",
+    "name": "don't you dare!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone doesn't seem to understand how difficult it is to do what they've suggested.",
+    "name": "easy for you to say",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're getting bored or annoyed and you want something to stop.",
+    "name": "enough already",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "You can say this if something should stop because it's been allowed to continue for too long.",
+    "name": "enough is enough",
+    "note": ""
+  },
+  {
+    "meaning": "This is a polite thing to say if you want to speak to a stranger.",
+    "name": "excuse me",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "This is a polite thing to say when you're interrupting somebody.",
+    "name": "excuse me",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "This is a polite thing to say if you have to get past somebody in a crowded space.",
+    "name": "excuse me",
+    "note": "var. 3"
+  },
+  {
+    "meaning": "This is a polite thing to say if you've accidentally done something.",
+    "name": "excuse me",
+    "note": "var. 4"
+  },
+  {
+    "meaning": "You can use this to ask someone to repeat what they've just said, either because you couldn't hear them or because you couldn't understand them.",
+    "name": "excuse me?",
+    "note": "AmE, var. 1"
+  },
+  {
+    "meaning": "If someone glares at you and says this in a serious voice, you must have annoyed or upset them.",
+    "name": "excuse me?",
+    "note": "AmE, var. 2"
+  },
+  {
+    "meaning": "You can say this if you think what someone says is reasonable enough to accept or believe.",
+    "name": "fair enough",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can say this to make it appear that you don't want to criticize, correct, disagree, etc., even though that's what you're doing.",
+    "name": "far be it from me to",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this when saying that the opposite of what someone has said is true.",
+    "name": "far from it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to let someone know they have permission to do something.",
+    "name": "feel free",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to tell someone what you'd like to do.",
+    "name": "feel like",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can use this to tell someone what you want, esp. for food, drinks and activities.",
+    "name": "feel like",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "to feel similar to something or someone else",
+    "name": "feel like",
+    "note": "var. 3"
+  },
+  {
+    "meaning": "to feel well enough to do something, especially after an illness or a bad experience",
+    "name": "feel up to",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you agree with a suggestion, or you accept what someone tells you.",
+    "name": "fine by me",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to introduce the first of several things you're going to say.",
+    "name": "first of all",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when suggesting or requesting something different.",
+    "name": "for a change",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to introduce the first of several reasons, points, opinions, etc.",
+    "name": "for a start | to start with",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't care if the event you're describing happens or not.",
+    "name": "for all I care",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to emphasise how little you know by giving an example of what could be true.",
+    "name": "for all I know",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to show you're angry or upset, or to strongly emphasize what you're saying.",
+    "name": "for God's sake | for Heaven's sake",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you'd like something to happen this time, as it rarely or never happens at other times.",
+    "name": "for once | just this once",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't want to appear too arrogant when giving your opinion or sharing some information, or if you're not sure if what you're saying is useful or helpful.",
+    "name": "for what it's worth",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're telling someone they're wrong about something, esp. if their mistake has annoyed or insulted you.",
+    "name": "for your information",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to tell someone not worry about something because it isn't important.",
+    "name": "forget it",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this when refusing a request or a demand.",
+    "name": "forget it",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if what you're telling someone is based on what you've heard or read.",
+    "name": "from the sound of things | from the sound of it",
+    "note": ""
+  },
+  {
+    "meaning": "This is used to firmly tell someone to control their emotions and behave sensibly or rationally.",
+    "name": "get a grip (on yourself)",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a harsh thing to say if you're annoyed with someone whose life seems dull or limited.",
+    "name": "get a life",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "You can say this if you want somebody to hurry up or go faster.",
+    "name": "get a move on",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to understand what you've been told or shown",
+    "name": "get it",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "to be punished by somebody",
+    "name": "get it",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "This is an impolite way of telling someone to go away, or of rejecting an offer or a request.",
+    "name": "get lost!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to someone if you want them to stop annoying you or bothering you.",
+    "name": "get off my back",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to someone if you want them to stop being so critical or demanding of you.",
+    "name": "get off my case",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone tells you something that's difficult to believe.",
+    "name": "get out of here!",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "You can say this if someone's in your way, or in a space you want to use.",
+    "name": "get out of the way",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone's had a bad experience, but you think it's time they recovered.",
+    "name": "get over it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone says something that's impossible or unrealistic.",
+    "name": "get real",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "to understand something, esp. something that isn't said directly",
+    "name": "get the idea | get the picture",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to misunderstand, or to believe something that isn't true",
+    "name": "get the wrong idea",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think someone or something is making progess.",
+    "name": "getting there",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to firmly tell someone to stop doing something that's annoying or disturbing you.",
+    "name": "give it a rest",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after someone says something ridiculous, annoying or untrue.",
+    "name": "give me a break",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to not punish, berate or criticize someone too severely",
+    "name": "go easy on (sb)",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to not use, eat, or drink too much of something",
+    "name": "go easy on (sth)",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to encourage someone to try hard or take on a challenge.",
+    "name": "go for it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "to mention something, esp. something that could upset someone or cause an argument",
+    "name": "go there",
+    "note": ""
+  },
+  {
+    "meaning": "If you say this to somebody, it means that you're very angry or upset with them.",
+    "name": "go to hell!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to emphasize that you don't know something.",
+    "name": "God (only) knows",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this to emphasize how honest or truthful you're being.",
+    "name": "God (only) knows",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this when something happens that shows a belief really is true.",
+    "name": "goes to show",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone if you're happy for them or proud of them.",
+    "name": "good for you | good on you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're very surprised or shocked by something.",
+    "name": "good Heavens | good Lord | good grief",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after someone you dislike or are angry with has gone.",
+    "name": "good riddance (to bad rubbish)",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this before telling someone something exciting or surprising.",
+    "name": "guess what?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "worn out or in very bad condition",
+    "name": "had it",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "very likely to fail, lose, go bankrupt, etc.",
+    "name": "had it",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if you're asking someone to be kind, or if you think they're being unfair or heartless.",
+    "name": "have a heart",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone asks about the future and you can't, or don't want to, answer them.",
+    "name": "have to wait and see | have to see",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't know something, or if you don't want to tell someone something.",
+    "name": "haven't got a clue",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know you're in a hurry.",
+    "name": "haven't got all day | don't have all day",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this before balancing or moderating what you've just said by adding a countering fact or comment.",
+    "name": "having said that",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you've the heard the same ideas, promises, excuses, etc. in the past, and you're no longer impressed by them.",
+    "name": "heard it all before",
+    "note": ""
+  },
+  {
+    "meaning": "This is used to let people know they can take something, or they can serve themselves.",
+    "name": "help yourself | help yourselves",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this just before doing something exciting, risky, or challenging.",
+    "name": "here goes",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when you've found something you're looking for.",
+    "name": "here it is | here they are",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when something annoying or upsetting starts to happen again.",
+    "name": "here we go again",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when handing something to somebody.",
+    "name": "here you are | here you go",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when raising a glass and wishing somebody success, health, happiness, etc.",
+    "name": "here's to",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to tell someone to stop.",
+    "name": "hold it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this about something that's exciting or surprising.",
+    "name": "how about that? | how do you like that?",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this when suggesting something in particular.",
+    "name": "how about...?",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can use this to ask for information that's related to what's already been mentioned.",
+    "name": "how about...?",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can use this to greet somebody you already know.",
+    "name": "how are you? | how are you doing?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want to know why something's happened, or why a situation exists.",
+    "name": "how come?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to someone if you think they've done something bad or wrong.",
+    "name": "how could you?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone if you're shocked or angry about what they've done or said.",
+    "name": "how dare you!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a very formal greeting sometimes used among members of the British upper classes.",
+    "name": "how do you do?",
+    "note": "FORMAL, BrE"
+  },
+  {
+    "meaning": "You can ask this if you want to know what someone thinks of your idea or your suggestion.",
+    "name": "how does that sound?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're annoyed because you've been asked a question you couldn't possibly know the answer to.",
+    "name": "how should I know?",
+    "note": ""
+  },
+  {
+    "meaning": "This is used as an informal or casual greeting, esp. among young people.",
+    "name": "how's it going?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to ask somebody about their progress in a task, a job, a project, etc.",
+    "name": "how's it going? | how are things going?",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to ask if something's all right.",
+    "name": "how's that?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to apologize for accidently doing something or for making a small mistake.",
+    "name": "I beg your pardon",
+    "note": "FORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you think what someone's said or done is wrong.",
+    "name": "I beg your pardon",
+    "note": "FORMAL, var. 2"
+  },
+  {
+    "meaning": "You can use this to ask someone to repeat what they've just said.",
+    "name": "I beg your pardon?",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know you understand the feeling or experience they've just described.",
+    "name": "I bet | I'll bet",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to emphasize what you're saying.",
+    "name": "I can tell you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when describing something that's true, but so amazing or disturbing that you can't believe it's true.",
+    "name": "I can't believe | I couldn't believe",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you completely agree with what someone's said.",
+    "name": "I couldn't agree more",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you understand why someone did or felt something.",
+    "name": "I don't blame you",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to politely ask a question or make a request.",
+    "name": "I don't suppose",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you think something probably isn't true or possible, but you're not entirely sure.",
+    "name": "I don't think so",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this to show that you strongly disagree with an opinion or statement.",
+    "name": "I don't think so",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this to show you agree with a negative statement, esp. if you feel pressured to agree, or you don't care very much.",
+    "name": "I guess not",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if your feeling or opinion about something isn't very strong.",
+    "name": "I guess so",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when adding a comment, esp. after accidently insulting someone.",
+    "name": "I hasten to add",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this when saying how bad something might become, or might have been.",
+    "name": "I hate to think",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to emphasize that you really don't know something.",
+    "name": "I have no idea",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you understand why somebody thinks something, even though you might not agree.",
+    "name": "I see what you mean",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you agree to something even though you don't really want to.",
+    "name": "I suppose so",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think something's probably true or correct, but you're not entirely sure.",
+    "name": "I think so",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you discover that what you thought might be true or correct actually is true or correct.",
+    "name": "I thought so | I thought as much",
+    "note": ""
+  },
+  {
+    "meaning": "After you've been proven correct, you can say this to someone who didn't believe you.",
+    "name": "I told you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if something bad happens after you've warned someone that it might.",
+    "name": "I told you so",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to make a polite offer or request.",
+    "name": "I was wondering if | I wonder if",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to let someone know what you'd like to have or do.",
+    "name": "I wouldn't mind",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to say what you wouldn't like to see happen.",
+    "name": "I'd hate to see",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you hope something's true, even though it might not be.",
+    "name": "I'd like to think so",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to say what you'd like to see happen.",
+    "name": "I'd love to see",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to tell someone you'll try to do what they've asked you to do.",
+    "name": "I'll see what I can do",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're going to show someone what you can do, esp. if you're angry or showing off.",
+    "name": "I'll show you! | I'll show them!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this when saying something that might disappoint, upset or sadden someone.",
+    "name": "I'm afraid",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this instead of \"no\" if your answer could upset or disappointed someone.",
+    "name": "I'm afraid not",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this instead of \"yes\" if your answer could upset or disappointed someone.",
+    "name": "I'm afraid so",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if someone tells you that one of their relatives or friends has died.",
+    "name": "I'm sorry for your loss | I'm so sorry",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to emphasize that what you're saying is true, especially if it's surprising, shocking or hard to believe.",
+    "name": "I'm telling you",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're angry with someone and you've had enough of their bad behaviour.",
+    "name": "I've had it (up to here) with",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to make sure someone doesn't mind what you're suggesting, esp. if it's a change of plan.",
+    "name": "if it's all the same to you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when giving your opinion about something.",
+    "name": "if you ask me",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to politely tell someone what you intend to do.",
+    "name": "if you don't mind | if you wouldn't mind",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this if you agree to do something because someone's insisting you do it.",
+    "name": "if you insist",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when making an offer or a suggestion.",
+    "name": "if you like",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this when agreeing to something, even though it's not what you really want.",
+    "name": "if you like",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you're allowing someone to do something you don't really want them to do.",
+    "name": "if you must",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're telling someone something you don't really want them to know.",
+    "name": "if you must know",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this if you're saying what you'll do, or what should happen, given the facts you've just been told.",
+    "name": "in that case | if that's the case",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this after being told some unexpected news or some interesting information.",
+    "name": "is that a fact?",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "This phrase can also be used ironically after someone says something silly or unbelievable.",
+    "name": "is that a fact?",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you can't give a definite answer because something might change, or because different things are possible.",
+    "name": "it depends | that depends",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this just before saying what seems to be true, or is probably true.",
+    "name": "it looks like",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you find it impossible to comprehend or imagine something.",
+    "name": "it's beyond me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're explaining your reason for doing something, esp. if you've upset or disappointed someone.",
+    "name": "it's just that",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think there's no point in doing something.",
+    "name": "it's no use",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when giving a reason that can't be the real one because it isn't true.",
+    "name": "it's not as if",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're having a bad day and lots of things are going wrong.",
+    "name": "it's not my day | it's one of those days",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're comforting someone who's sad or disappointed.",
+    "name": "it's not the end of the world",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when someone's having an unpleasant experience that you're also having, or have had.",
+    "name": "join the club",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to make someone do something quickly.",
+    "name": "jump to it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want somebody to wait for a very short time.",
+    "name": "just a moment | just a minute",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to let someone know that you don't mind if your idea or suggestion is rejected.",
+    "name": "just a thought",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if what you thought was true is proved to be true.",
+    "name": "just as I thought",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when a bad situation hasn't occurred, or has been avoided.",
+    "name": "just as well",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone doesn't realize you're kidding or joking.",
+    "name": "just kidding",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "easily, quickly or without warning",
+    "name": "just like that",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to a shop assistant if you don't need their help while you're looking at things.",
+    "name": "just looking",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this before asking for information you're interested in, but have no intention of using for any other purpose.",
+    "name": "just out of interest | as a matter of interest",
+    "note": ""
+  },
+  {
+    "meaning": "You can say something's \"just the thing\" if it's exactly what's needed or wanted.",
+    "name": "just the thing",
+    "note": ""
+  },
+  {
+    "meaning": "This can be used to strengthen a threat or a promise.",
+    "name": "just you wait!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't want someone to tell other people something.",
+    "name": "keep it to yourself",
+    "note": ""
+  },
+  {
+    "meaning": "to continue doing the same thing",
+    "name": "keep it up",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to encourage someone to continue working well, studying hard, playing well, etc.",
+    "name": "keep up the good work",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you can't describe something or someone exactly.",
+    "name": "kind of",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to give encouragement to someone who's about to perform in public, play sport, go for a job interview, etc.",
+    "name": "knock 'em dead",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to give someone permission to have or do as much as they like.",
+    "name": "knock yourself out",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're sure someone knows something when they're pretending not to.",
+    "name": "know full well | know perfectly well",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to see if someone knows what you mean, or to fill in time before saying something else.",
+    "name": "know what I'm sayin'?",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "to not do anything more for now",
+    "name": "leave it at that",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to let someone know they don't have to do something because you'll do it.",
+    "name": "leave it to me | leave everything to me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone when you're leaving, esp. if they're busy doing something.",
+    "name": "leave you to it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone gives advice or an opinion that angers you, esp. if they have no right to do so.",
+    "name": "let me be the judge of that",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you'd like to guess what's happening before someone tells you.",
+    "name": "let me guess",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this before telling someone what you really think, esp. if you're saying it as politely or gently as you can.",
+    "name": "let me put it this way | how shall I put it?",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to emphasize that you really mean what you're saying.",
+    "name": "let me tell you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to emphasize that something's true, even if it's hard to believe or accept.",
+    "name": "let's face it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't want to do something.",
+    "name": "let's give it a miss",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to suggest leaving and going somewhere else.",
+    "name": "let's go",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this if it's time to start doing something.",
+    "name": "let's go",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you're not going to give all the details about something.",
+    "name": "let's just say",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when considering what might happen if something occurs.",
+    "name": "let's say | let's suppose",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you need a moment to think about something.",
+    "name": "let's see | let me see",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this if you want someone to show you something.",
+    "name": "let's see | let me see",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if you want to find out something.",
+    "name": "let's see | let me see",
+    "note": "var. 3"
+  },
+  {
+    "meaning": "You can say this to show that you don't believe something, or strongly doubt something.",
+    "name": "like hell",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you're refusing to allow something, or refusing to do something.",
+    "name": "like hell",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this when you have to repeat what you've told someone because they haven't accepted it.",
+    "name": "like I said",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when talking about a situation that can't be changed, even though you or someone else might like to change it.",
+    "name": "like it or not",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're showing someone exactly how to do something.",
+    "name": "like this | like so",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this while greeting someone you haven't seen for a very long time.",
+    "name": "long time no see",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone's advice or opinion isn't supported by what they've done in their own life.",
+    "name": "look who's talking!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want someone to do something quickly.",
+    "name": "make it snappy",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to emphasize that you mean what you're saying, esp. when warning or threatening somebody.",
+    "name": "make no mistake",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to politely tell a client or visitor to sit down after they've arrived.",
+    "name": "make yourself comfortable",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can use this to tell someone to stop wasting time and do something useful.",
+    "name": "make yourself useful",
+    "note": ""
+  },
+  {
+    "meaning": "This is used to wish someone happiness on their birthday.",
+    "name": "many happy returns",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want someone to listen carefully, esp. if you're warning them or predicting the future.",
+    "name": "mark my words",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone makes a negative statement that's also true for you.",
+    "name": "me neither",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone makes a positive statement that's also true for you.",
+    "name": "me too",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think, or agree, that something is the best thing to do given the situation you're in.",
+    "name": "might as well | may as well",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're moderating what you've just said to make it less strong, or if you're adding a warning.",
+    "name": "mind you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're disappointed that something's true, or disappointed that something's happened or will happen.",
+    "name": "more's the pity",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want to thank somebody very politely or formally.",
+    "name": "much obliged",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know that what you've told them is a secret, and they mustn't tell anyone.",
+    "name": "mum's the word",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is an old-fashioned way of expressing surprise.",
+    "name": "my goodness | my goodness me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're promising not to tell anyone a secret.",
+    "name": "my lips are sealed",
+    "note": ""
+  },
+  {
+    "meaning": "This is a polite thing to say after someone has thanked you for helping them.",
+    "name": "my pleasure",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you completely agree with someone's opinion.",
+    "name": "my sentiments exactly",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if what you're telling someone is obvious, or they should already know it.",
+    "name": "needless to say",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when meeting someone for the first time.",
+    "name": "nice to meet you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when meeting someone you already know.",
+    "name": "nice to see you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone who's trying to cheat you or play a trick on you.",
+    "name": "nice try",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a humorous or light-hearted way of saying you can't do something.",
+    "name": "no can do",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "Politicians and other public figures often say this if they don't want to answer a question from a reporter or journalist.",
+    "name": "no comment",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think something's definitely true or will definitely happen.",
+    "name": "no doubt",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this when you accept that something's true, but it doesn't change your opinion.",
+    "name": "no doubt",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this if you strongly believe that something's true or correct.",
+    "name": "no doubt about it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to someone you've argued or competed with to let them know you have no bad feelings toward them.",
+    "name": "no hard feelings",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if a mistake or accident hasn't seriously harmed anyone or damaged anything.",
+    "name": "no harm done",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if nothing can change what you're telling someone.",
+    "name": "no matter what",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if what you're telling someone might upset or offend them.",
+    "name": "no offence",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this after someone asks you to do something and you'd be happy to do it, or it wouldn't be a problem to do.",
+    "name": "no problem",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this after someone has thanked you or said they're sorry.",
+    "name": "no problem",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if you're disappointed because something you'd hoped for didn't happen.",
+    "name": "no such luck",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to let someone know that you definitely won't do something, or that something definitely won't happen.",
+    "name": "no way",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if something's surprising or difficult to believe.",
+    "name": "no way",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if you're not surprised by something.",
+    "name": "no wonder",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this after someone asks you to do something and you'd be happy to do it, or it wouldn't be a problem to do.",
+    "name": "no worries",
+    "note": "INFORMAL, BrE, AuE, var. 1"
+  },
+  {
+    "meaning": "You can this say after somebody thanks you, or if you accept somebody's apology, excuse, explanation, etc.",
+    "name": "no worries",
+    "note": "INFORMAL, BrE, AuE, var. 2"
+  },
+  {
+    "meaning": "You can say this after someone has thanked you for doing something.",
+    "name": "not at all",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're strongly refusing a request or rejecting a suggestion.",
+    "name": "not on your life!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this instead of saying \"no\" if you think \"no\" might sound too definite or too strong.",
+    "name": "not really",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you've been asked a question and, to the best of your knowledge, the answer is \"no\".",
+    "name": "not that I know of",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think something isn't important or serious enough to worry about.",
+    "name": "not to worry",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can say this if someone says something that makes you think of, or remember, something.",
+    "name": "now that you mention it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to get people's attention, esp. before making a suggestion or starting a new discussion.",
+    "name": "now then",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this after someone has told you something, but you wish they'd told you sooner.",
+    "name": "now you tell me!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you like someone's suggestion or offer very much.",
+    "name": "now you're talking!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can add this if what you're saying should be obvious to the listener.",
+    "name": "of course",
+    "note": ""
+  },
+  {
+    "meaning": "You can answer a question with this if you want to say \"no\" very definitely or forcefully.",
+    "name": "of course not!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can answer a question with this if you want to say \"yes\" very definitely or forcefully.",
+    "name": "of course!",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you suddenly understand or realize something.",
+    "name": "of course!",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if something bad happens or you hear bad news.",
+    "name": "oh no! | oh my God!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're disappointed.",
+    "name": "oh well",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to add emphasis to a question, esp. if you're surprised or annnoyed.",
+    "name": "on earth | the hell",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you've suddenly changed your mind.",
+    "name": "on second thoughts",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to say something must be true, because if it wasn't true something else would or wouldn't have happened.",
+    "name": "or else",
+    "note": ""
+  },
+  {
+    "meaning": "If you add \"or else!\" to a command or a demand, it becomes an implied threat.",
+    "name": "or else!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can add this to a question if you're getting impatient or frustrated.",
+    "name": "or what?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone's refusing to tell you something you want to know.",
+    "name": "out with it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you strongly oppose a plan or an action, and you're not going to let it happen.",
+    "name": "over my dead body!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to apologize for bumping into someone, interrupting someone, making a rude noise, or doing anything else that might upset someone.",
+    "name": "pardon me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're annoyed with someone and you're pretending not to care what they do.",
+    "name": "please yourself",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a polite thing to say when meeting someone for the first time.",
+    "name": "pleased to meet you",
+    "note": "BrE"
+  },
+  {
+    "meaning": "You can say this instead of saying \"almost\" or \"nearly\".",
+    "name": "pretty well | pretty much",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone needs to calm down and control their emotions.",
+    "name": "pull yourself together",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a very impolite way of telling somebody to be quiet.",
+    "name": "put a sock in it!",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can use this to tell someone to either do something about a situation, or stop talking about it.",
+    "name": "put up or shut up!",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "This is a polite thing to say after someone has apologized or said 'sorry' to you.",
+    "name": "quite all right",
+    "note": "BrE, AuE"
+  },
+  {
+    "meaning": "You can say this to show you completely agree with what someone's said.",
+    "name": "quite right!",
+    "note": "BrE, AuE"
+  },
+  {
+    "meaning": "You can say this when quoting somebody, or when using a word or phrase ironically.",
+    "name": "quote unquote | quote ... unquote",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone has to do something that you wouldn't like or want to do.",
+    "name": "rather you than me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're ready to go somewhere or do something with someone.",
+    "name": "ready when you are",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone's done something really stupid or silly.",
+    "name": "really gone and done it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you understand your instructions, or understand what someone wants you to do.",
+    "name": "right you are",
+    "note": "INFORMAL, BrE, AuE"
+  },
+  {
+    "meaning": "You can say this to someone if you're waking them up in the morning.",
+    "name": "rise and shine",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone's in danger and they should escape as quickly as possible.",
+    "name": "run for your life! | run for it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when describing something that's unfortunate or disappointing.",
+    "name": "sad to say",
+    "note": ""
+  },
+  {
+    "meaning": "If what someone says is also true for you, you can say \"same here\".",
+    "name": "same here",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you, or someone else, is about to give a short speech.",
+    "name": "say a few words",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you know what someone's going to say next, or you see what they're implying.",
+    "name": "say no more!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know you'll respond to their order or request as soon as they make it.",
+    "name": "say the word | just say the word",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this before saying something good about someone or something that isn't usually liked much.",
+    "name": "say what you like",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to ask someone to tell you when to stop, esp. if you're pouring a drink, putting food on a plate, adding salt to food, etc.",
+    "name": "say when",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to emphasize that you don't know the answer to someone's question.",
+    "name": "search me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when showing someone something you've told them about, esp. if they don't believe you.",
+    "name": "see for yourself",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this when saying it's best to wait and see how things develop before doing anything.",
+    "name": "see how it goes | see how things go",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after explaining something, or after something happens that supports your belief.",
+    "name": "see what I mean?",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to say good-bye to someone, esp. if you'll be seeing them again in the near future.",
+    "name": "see you | see you later",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to say something bad that's happened to someone is their own fault and they deserve it.",
+    "name": "serves you right! | it serves you right!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think someone should feel ashamed because they've done something very wrong.",
+    "name": "shame on you!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're annoyed after being told about something that's wrong or unfair.",
+    "name": "since when?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This can be added to an angry declaration to make it sound decisive and final.",
+    "name": "so there!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can add this after you've said something in an unusual, amusing or idiomatic way.",
+    "name": "so to speak",
+    "note": ""
+  },
+  {
+    "meaning": "If someone says something that doesn't seem important, or doesn't seem to matter, you can say \"so what?\"",
+    "name": "so what?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to apologize for making a small mistake or for inconveniencing someone.",
+    "name": "sorry about that",
+    "note": ""
+  },
+  {
+    "meaning": "This is a polite thing to say before speaking to someone, esp. if you don't know them.",
+    "name": "sorry to bother you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone tells you something bad has happened.",
+    "name": "sorry to hear that",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when telling someone something that might disappoint or inconvience them.",
+    "name": "sorry to say",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think someone's suggestion is a good idea.",
+    "name": "sounds good | sounds great",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone has said something on your behalf that you disagree with.",
+    "name": "speak for yourself!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you won't be describing something in detail.",
+    "name": "suffice (it) to say",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "This is a way of telling someone to do what they want to do, esp. if they've ignored your advice or your wishes and you're annoyed with them.",
+    "name": "suit yourself",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're agreeing to do something, or after someone has thanked you.",
+    "name": "sure thing",
+    "note": "INFORMAL, AmE"
+  },
+  {
+    "meaning": "You can use this to say good-bye or farewell to somebody.",
+    "name": "take care",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone's showing signs of stress and they need to relax.",
+    "name": "take it easy",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "This is sometimes used to say good-bye, esp. by young people.",
+    "name": "take it easy",
+    "note": "INFORMAL, AmE, var. 2"
+  },
+  {
+    "meaning": "You can say this to emphasize that what you're saying is true.",
+    "name": "take it from me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this just before making a suggestion or an offer.",
+    "name": "tell you what | I'll tell you what",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "An informal way of saying \"Thank you\".",
+    "name": "thanks a lot",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this about something that's happened if it seems logical or if it isn't surprising.",
+    "name": "that figures | it figures",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone says or does something that makes you remember something.",
+    "name": "that reminds me",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this before saying something that seems to contradict, or be the opposite of, what you've just said.",
+    "name": "that said",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't think something will ever happen or become true.",
+    "name": "that'll be the day!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this instead of saying \"that's enough\" or \"that's good enough\".",
+    "name": "that'll do | that'll have to do",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after something bad has happened to someone who should have been more careful, or should have known better.",
+    "name": "that'll teach you!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want someone to stop behaving badly or annoying you.",
+    "name": "that's (quite) enough!",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this phrase if there's nothing else you want to say about something, or if there's nothing more to a story.",
+    "name": "that's all (there is to it)",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think something's strange.",
+    "name": "that's funny | the funny thing is",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if something's been annoying you for a while, and you finally decide to do something about it.",
+    "name": "that's it! | that does it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if something's better or more satisfactory than before.",
+    "name": "that's more like it",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if a decision or arrangement is final and it won't be changed.",
+    "name": "that's that",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this just after you've completed a task.",
+    "name": "that's that",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this to someone if they're doing something well or correctly.",
+    "name": "that's the idea!",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think someone's wrong about something.",
+    "name": "that's what you think!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this before giving your reason for refusing an offer, a request or a suggestion.",
+    "name": "the (only) thing is",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're describing something that happened to you suddenly and unexpectedly.",
+    "name": "the next thing I knew",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're giving something to someone.",
+    "name": "there you are | there you go",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think someone's doing something, or thinking of doing something, that is pointless or sure to fail.",
+    "name": "there's no point",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone mentions something that you don't think exists, or that you don't believe in.",
+    "name": "there's no such thing",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're encouraging someone to do something, and you want them to think it's easy.",
+    "name": "there's nothing to it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this after someone has thanked you for doing something for them.",
+    "name": "think nothing of it",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this when you're telling someone what you really think, even if it might upset them.",
+    "name": "to be (perfectly) honest",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this when saying something positive about something or someone you've been critical of.",
+    "name": "to be fair",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're going to get to the main point of what you're saying quickly, without giving all the details.",
+    "name": "to cut a long story short",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this before giving an opinion or saying what you really think.",
+    "name": "to my mind | to my way of thinking",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to express sympathy after something bad has happened.",
+    "name": "too bad | that's too bad",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you don't care what someone thinks or feels about something.",
+    "name": "too bad | that's too bad",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "This is a polite thing to say if you're sure what you're saying is correct.",
+    "name": "unless I'm mistaken | if I'm not mistaken",
+    "note": ""
+  },
+  {
+    "meaning": "to be doing something bad, illegal or naughty",
+    "name": "up to no good",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want someone else to make a decision, or if you don't care what they decide.",
+    "name": "up to you",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't believe someone because you know they're only joking.",
+    "name": "very funny!",
+    "note": ""
+  },
+  {
+    "meaning": "This is a formal way of saying \"Yes, very much\".",
+    "name": "very much so",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you've just had an idea, or just noticed something.",
+    "name": "wait a minute",
+    "note": "var. 1"
+  },
+  {
+    "meaning": "You can say this if you're questioning something or disagreeing with someone.",
+    "name": "wait a minute",
+    "note": "var. 2"
+  },
+  {
+    "meaning": "You can say this to threaten somebody who has upset or angered you.",
+    "name": "watch it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone has said something that's made you angry.",
+    "name": "watch your mouth!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want someone to stop using rude language or swear words.",
+    "name": "watch your tongue",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want to warn somebody about a danger.",
+    "name": "watch yourself",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want to praise somebody for what they've done.",
+    "name": "well done!",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone's being brave, esp. if they're challenging someone in authority or asserting their rights.",
+    "name": "what a nerve! | you've got a nerve",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if something disappointing has happened.",
+    "name": "what a pity | that's a pity",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this when you're asking about, or reminding someone about, something or someone that hasn't been mentioned yet.",
+    "name": "what about...?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want someone to do something immediately.",
+    "name": "what are you waiting for?",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to ask someone what sort of work or study they do.",
+    "name": "what do you do?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're surprised, or if you learn something you didn't know.",
+    "name": "what do you know?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're annoyed or surprised by what somebody has told you.",
+    "name": "what do you mean?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you want somebody to explain something more fully.",
+    "name": "what do you mean? | how do you mean?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you see someone doing something they shouldn't be doing.",
+    "name": "what do you think you're doing? | what are you doing?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to ask someone what they think about something, or if they think something's a good idea.",
+    "name": "what do you think? | what do you reckon?",
+    "note": ""
+  },
+  {
+    "meaning": "This an impolite or rude way of asking someone why they've interrupted you.",
+    "name": "what do you want? | what is it?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want to know the purpose of something.",
+    "name": "what for?",
+    "note": ""
+  },
+  {
+    "meaning": "This an impolite or rude way of asking someone why they've interrupted you again.",
+    "name": "what is it now? | what now?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're doing something you wouldn't normally allow yourself to do.",
+    "name": "what the hell!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone's done something silly or made a mistake.",
+    "name": "what were you thinking?",
+    "note": ""
+  },
+  {
+    "meaning": "This is a more informal way of saying \"What's happening?\" or \"What happened?\".",
+    "name": "what's going on?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone's behaving badly or strangely.",
+    "name": "what's got into you? | (don't know) what got into me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you want someone to describe something or someone.",
+    "name": "what's it like? | what's he/she like?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone mentions something that you think is irrelevant, esp. if it annoys or offends you.",
+    "name": "what's that got to do with it?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone's doing something, or has done something, that you think is wrong or bad.",
+    "name": "what's the big idea?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone seems sad, worried, sick, etc. and you want to know what's wrong.",
+    "name": "what's the matter?",
+    "note": ""
+  },
+  {
+    "meaning": "You can add \"the hell\" to a question if you're angry or upset.",
+    "name": "what/where/who/why/how the hell...?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this for emphasis when telling someone not to do something.",
+    "name": "whatever you do",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this to put something into a larger perspective so that it doesn't seem so bad.",
+    "name": "when all is said and done",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you'd like someone to do something while they're doing something else.",
+    "name": "while you're at it",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to question whether you, or someone else, has the right or authority to do something.",
+    "name": "who am I to...? | who are you to...?",
+    "note": ""
+  },
+  {
+    "meaning": "This is a rude way of telling someone that you're not interested in what they think or say.",
+    "name": "who asked you?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if no-one knows the answer to a question, esp. one about the future.",
+    "name": "who can say? | who knows?",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you think something isn't important or doesn't matter.",
+    "name": "who cares?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you disagree with what someone has said.",
+    "name": "who says?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when suggesting something to more than one person.",
+    "name": "who wants to...?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this when offering something to more than one person.",
+    "name": "who wants...?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to show you agree with a suggestion or accept an offer.",
+    "name": "why not?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're annoyed about being told to do something.",
+    "name": "why should I? | why should we?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know you'll do what they've asked you to do.",
+    "name": "will do",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think a situation, or someone's behaviour, isn't good enough or isn't acceptable.",
+    "name": "won't do",
+    "note": "FORMAL, BrE"
+  },
+  {
+    "meaning": "You can use this when giving advice, or when saying what you think someone should do.",
+    "name": "would be better off",
+    "note": ""
+  },
+  {
+    "meaning": "This is an informal way of asking for permission to do something.",
+    "name": "would it be OK if I...? | would it be all right if I...?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you, or somebody else, would be just as happy doing something else instead of what was suggested or planned.",
+    "name": "would just as soon",
+    "note": ""
+  },
+  {
+    "meaning": "This a very polite and formal way of asking somebody to do something.",
+    "name": "would you be so kind as to...? | would you be kind enough to...?",
+    "note": "FORMAL, BrE"
+  },
+  {
+    "meaning": "This is a polite way of asking for permission to do something.",
+    "name": "would you mind if I...?",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "This is a polite way of asking somebody to do something.",
+    "name": "would you mind...?",
+    "note": "FORMAL"
+  },
+  {
+    "meaning": "You can say this to emphasize that you, or somebody else, would never do something.",
+    "name": "wouldn't dream of | would never dream of",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you don't believe what someone has said, or doubt or disagree with them.",
+    "name": "yeah, right",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if there's no simple \"yes\" or \"no\" answer to a question.",
+    "name": "yes and no",
+    "note": ""
+  },
+  {
+    "meaning": "If you're giving someone instructions or advice, you can say this to give them confidence.",
+    "name": "you can't go wrong",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to emphasize the truth of what you're saying.",
+    "name": "you can't imagine | you have no idea",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you don't believe or accept what someone has just told you.",
+    "name": "you could've fooled me",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're surprised by what someone's told you, esp. if it's good news.",
+    "name": "you don't say",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this instead of \"There is\", \"There are\", \"There can be\", etc. when describing what exists or happens at a certain place or time.",
+    "name": "you get",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you feel you can't succeed, or can't please someone, no matter what you do.",
+    "name": "you just can't win",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to let someone know you really mean what you're saying.",
+    "name": "you know",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this at any point in a sentence if you need time to think before going on.",
+    "name": "you know",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can add this to a statement if you're annoyed because of what someone has said, assumed or implied.",
+    "name": "you know",
+    "note": "INFORMAL, var. 3"
+  },
+  {
+    "meaning": "You can say this to get someone's attention, esp. before explaining or clarifying something.",
+    "name": "you know what? | you know something?",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to remind someone that anything's possible in the future.",
+    "name": "you never know",
+    "note": "INFORMAL, var. 1"
+  },
+  {
+    "meaning": "You can say this if you think something could exist, or be happening, that you don't know about.",
+    "name": "you never know",
+    "note": "INFORMAL, var. 2"
+  },
+  {
+    "meaning": "You can say this if you agree with someone, esp. if they say something negative that you'd never dare say yourself.",
+    "name": "you said it!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "This is a polite thing to say after someone has given you a gift, or done something to please you.",
+    "name": "you shouldn't have",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if someone says what you were about to say.",
+    "name": "you took the words right out of my mouth",
+    "note": ""
+  },
+  {
+    "meaning": "You can say this if you're tired of trying to convince someone of something.",
+    "name": "you win",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this to someone if they're hoping something very unlikely will happen.",
+    "name": "you wish!",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you're telling someone something that's unusual, surprising, or hard to imagine.",
+    "name": "you wouldn't believe how/what/who...",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can use this to advise somebody, or to threaten somebody.",
+    "name": "you'd better",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to emphasize the truth or seriousness of what's being said.",
+    "name": "you'd better believe it!",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this to warn somebody not to do something.",
+    "name": "you'd better not",
+    "note": ""
+  },
+  {
+    "meaning": "You can use this when telling someone something exciting or interesting.",
+    "name": "you'll never guess who/what/how...",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if you think someone will eventually understand or see that what you've told them is true.",
+    "name": "you'll see",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "You can say this if someone says something surprising or ridiculous.",
+    "name": "you're joking | you're kidding | you can't be serious",
+    "note": "INFORMAL"
+  },
+  {
+    "meaning": "A polite thing to say after someone has thanked you.",
+    "name": "you're welcome",
+    "note": ""
+  }
+]
